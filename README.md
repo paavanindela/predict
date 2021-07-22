@@ -4,3 +4,12 @@
  
  The results are as follows
  
+ 
+ Cat Prediction
+ 
+ ![CAT PREDICTION](./Cat_prediction.png)
+ 
+ 
+ Dog Prediction
+ 
+ ![DOG_PREDICTION](./Dog_prediction.png)
